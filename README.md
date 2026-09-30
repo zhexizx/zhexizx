@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/monospace-cv.svg" alt="Zecy — Go · Cloud Native · AI Infra · Web" width="100%" />
+  <img src="./assets/monospace-cv.svg" alt="Zhexi — Go · Cloud Native · AI Infra · Web" width="100%" />
 </p>
 
 ---
