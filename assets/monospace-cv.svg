@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Zecy — Developer profile">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Zhexi — Developer profile">
   <title>Monospace CV</title>
-  <desc>Zecy developer profile, skills and GitHub address in a terminal style.</desc>
+  <desc>Zhexi developer profile, skills and GitHub address in a terminal style.</desc>
   <defs>
     <linearGradient id="mc-typing" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#58a6ff"/>
@@ -12,7 +12,7 @@
   <rect width="1200" height="420" fill="#0d1117"/>
 
   <!-- A rendered markdown heading, to place the block on a page -->
-  <text x="72" y="66" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="27" font-weight="600" fill="#e6edf3">Zecy</text>
+  <text x="72" y="66" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="27" font-weight="600" fill="#e6edf3">Zhexi</text>
   <line x1="72" y1="82" x2="1128" y2="82" stroke="#21262d" stroke-width="1"/>
   <text x="72" y="108" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15" fill="#8b949e">Go · Cloud Native · AI Infra · Web</text>
 
@@ -23,7 +23,7 @@
 
   <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14.5">
     <text x="96" y="170"><tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
-    <text x="96" y="192" fill="#9aa4b0">Zecy — Developer</text>
+    <text x="96" y="192" fill="#9aa4b0">Zhexi — Developer</text>
 
     <text x="96" y="226"><tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9"> cat skills.txt</tspan></text>
     <text x="96" y="248" fill="#9aa4b0">Go · Docker · Kubernetes · React · TypeScript · PostgreSQL · Tailwind CSS</text>
